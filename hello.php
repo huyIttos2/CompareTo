@@ -1,5 +1,5 @@
 <?php
-include "TrienChieu.php";
+include "CircleImp.php";
 
 $circleOne = new TrienChieu('circleOne', 2);
 $circleTwo = new TrienChieu('circleTwo', 2);
