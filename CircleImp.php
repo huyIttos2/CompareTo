@@ -2,7 +2,7 @@
     include 'cauhinh.php';
     include 'HinhTron.php';
 
-class TrienChieu extends HinhTron implements CauHinh
+class CircleImp extends Circle implements Interface
 {
     public function __construct($name, $radius)
     {
