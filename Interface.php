@@ -1,4 +1,4 @@
 <?php
-interface CauHinh{
+interface Interface{
     public function compareTo($objOther);
 }
