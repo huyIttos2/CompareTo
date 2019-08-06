@@ -1,7 +1,7 @@
 <?php
 
 
-class HinhTron
+class Circle
 {
     public $radius;
     public $name;
