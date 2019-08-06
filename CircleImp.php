@@ -1,6 +1,6 @@
 <?php
-    include 'cauhinh.php';
-    include 'HinhTron.php';
+    include 'Interface.php';
+    include 'Circle.php';
 
 class CircleImp extends Circle implements Interface
 {
